@@ -17,48 +17,117 @@
   ],
   "skills": [
     {
-      "name": "PHP",
-      "number_of_years": 2
+      "category": "Programming Languages",
+      "technologies": [
+        {
+          "name": "PHP",
+          "number_of_years": 2
+        },
+        {
+          "name": "Javascript",
+          "number_of_years": 3
+        },
+      ]
     },
     {
-      "name": "HTML5",
-      "number_of_years": 3
+      "category": "Web Technologies",
+      "technologies": [
+        {
+          "name": "HTML5",
+          "number_of_years": 3
+        },
+        {
+          "name": "Jquery",
+          "number_of_years": 3
+        },
+        {
+          "name": "CSS",
+          "number_of_years": 3
+        },
+        {
+          "name": "SASS/SCSS",
+          "number_of_years": 1
+        },
+        {
+          "name": "Bootstrap",
+          "number_of_years": 1
+        }
+      ]
     },
     {
-      "name": "Javascript",
-      "number_of_years": 3
+      "category": "Development Frameworks",
+      "technologies": [
+        {
+          "name": "Codeigniter",
+          "number_of_years": 1
+        },
+      ]
     },
     {
-      "name": "Jquery",
-      "number_of_years": 3
+      "category": "Databases",
+      "technologies": [
+        {
+          "name": "MySql",
+          "number_of_years": 2
+        },
+        {
+          "name": "Postgresql",
+          "number_of_years": 1
+        }
+      ]
     },
     {
-      "name": "CSS",
-      "number_of_years": 3
+      "category": "Content Management System",
+      "technologies": [
+        {
+          "name": "Drupal",
+          "number_of_years": 1
+        },
+        {
+          "name": "Magento",
+          "number_of_years": 1
+        }
+      ]
     },
     {
-      "name": "SASS/SCSS",
-      "number_of_years": 1
+      "category": "Version Control",
+      "technologies": [
+        {
+          "name": "Git",
+          "number_of_years": 2
+        }
+        {
+          "name": "SVN Tortoise",
+          "number_of_years": 3
+        }
+      ]
     },
     {
-      "name": "Bootstrap",
-      "number_of_years": 1
+      "category": "Operating System",
+      "technologies": [
+        {
+          "name": "Windows",
+          "number_of_years": 3
+        },
+        {
+          "name": "Linux",
+          "number_of_years": 1
+        }
+      ]
     },
     {
-      "name": "Codeigniter",
-      "number_of_years": 1
+      "category": "Web Services",
+      "technologies": [
+      ]
     },
     {
-      "name": "MySql",
-      "number_of_years": 2
-    },
-    {
-      "name": "Postgresql",
-      "number_of_years": 1
-    },
-    {
-      "name": "Git",
-      "number_of_years": 2
+      "category": "Integrated Development Environment",
+      "technologies": [
+        {
+          "name": "PHPstorm",
+          "number_of_years": 1
+        }
+      ]
     }
   ],
   "work": [
@@ -70,6 +139,16 @@
       "summary": "Build RESTful web services to support mobile applications for Android and IOS. Help in improving development standards for web applications. Develop mobile first web applications with the use of latest design frameworks. Lead in developing new modules and customization for ecommerce portal using prestashop as a tool.",
       "highlights": [
 
+      ],
+      "projects": [
+        {
+          "name": "Happyshopmate RESTAPI and Portal",
+          "description": "A backend API that supports the android and ios application reward system app. This application has bunch of features which includes Coupons, NFC, Qrcode and Beacon detection which allow users to redeem and win instant prizes. ",
+          "role": "Lead Developer",
+          "startDate": "2017",
+          "endDate": "Present",
+          "technologies": "PHP, MySql, Silex, AngularJs"
+        }
       ]
     },
     {
@@ -80,6 +159,32 @@
       "summary": "Developed Japanese sites using PHP and XML Database with Customized Framework based on client’s requirements. Created and extended Magento modules. Converted PSD designs into web page using HTML, CSS, SCSS, Javascript and jQuery. Made sure that the web pages are cross-compatible with different browsers. Made sure that smartphone site is compatible with different devices. Documented coding standards and best practices in converting designs to pages without ruining the back-end functions.",
       "highlights": [
 
+      ],
+      "projects": [
+        {
+          "name": "Gurucon: A Japanese Dating Site",
+          "description": "It is developed by using a PHP Customized Framework and XML Database",
+          "role": "Associate Developer",
+          "startDate": "2014",
+          "endDate": "2015",
+          "technologies": "PHP, XML Database, CSS, Javascript"
+        }
+        {
+          "name": "EasyEntry",
+          "description": "It is a Japanese movie reservation site developed by using a PHP Customized Framework and XML Database",
+          "role": "Associate Developer",
+          "startDate": "2014",
+          "endDate": "2015",
+          "technologies": "PHP, XML Database, CSS, Javascript"
+        }
+        {
+          "name": "Iiyado (Hotel Reservation Site) and other Projects",
+          "description": "For front-end, it is reactive (different view files used for PC and for smartphone). As for the backend, it is developed using C# customized framework.",
+          "role": "Lead Front-end Developer",
+          "startDate": "2015",
+          "endDate": "2017",
+          "technologies": "PHP, XML Database, CSS, Javascript"
+        }
       ]
     }
   ],
