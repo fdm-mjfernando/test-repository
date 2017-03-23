@@ -1,0 +1,96 @@
+// 20170323131325
+// http://fdm-dev-hsm.flightdigitalmedia.com/resumedata.json
+
+{
+  "basics": {
+    "name": "Mary Jane C. Fernando",
+    "label": "Web Application Developer",
+    "picture": "https://www.linkedin.com/mpr/mpr/AAEAAQAAAAAAAAwwAAAAJDg3YWVmMTQwLThmMjktNDZkYy04MDcyLTFhOGM5N2UzMWIyZQ.jpg",
+    "email": "maryjane.fernando@flightdigitalmedia.com",
+    "phone": "+639771057239"
+  },
+  "education": [
+    {
+      "institution": "Golden Link College",
+      "course": "Information Technology",
+      "studyType": "Bachelor",
+      "startDate": "2010",
+      "endDate": "2014"
+    }
+  ],
+  "skills": [
+    {
+      "name": "PHP",
+      "number_of_years": 1 1/2
+    },
+    {
+      "name": "HTML5",
+      "number_of_years": 3
+    },
+    {
+      "name": "Javascript",
+      "number_of_years": 3
+    },
+    {
+      "name": "Jquery",
+      "number_of_years": 3
+    },
+    {
+      "name": "CSS",
+      "number_of_years": 3
+    },
+    {
+      "name": "SASS/SCSS",
+      "number_of_years": 1
+    },
+    {
+      "name": "Bootstrap",
+      "number_of_years": 1
+    },
+    {
+      "name": "Codeigniter",
+      "number_of_years": 1
+    },
+    {
+      "name": "MySql",
+      "number_of_years": 2
+    },
+    {
+      "name": "Postgresql",
+      "number_of_years": 1
+    },
+    {
+      "name": "Git",
+      "number_of_years": 2
+    }
+  ],
+  "work": [
+    {
+      "company": "Flight Digital Media",
+      "position": "Web Application Developer",
+      "startDate": "March 2017",
+      "endDate": "Present",
+      "summary": "Build RESTful web services to support mobile applications for Android and IOS. Help in improving development standards for web applications. Develop mobile first web applications with the use of latest design frameworks. Lead in developing new modules and customization for ecommerce portal using prestashop as a tool.",
+      "highlights": [
+
+      ]
+    },
+    {
+      "company": "IVP Global Philippines Inc",
+      "position": "Web Developer",
+      "startDate": "May 2014",
+      "endDate": "Feb 2017",
+      "summary": "Developed Japanese sites using PHP and XML Database with Customized Framework based on client’s requirements.
+      Created and extended Magento modules. Converted PSD designs into web page using HTML, CSS, SCSS, Javascript and jQuery.
+      Made sure that the web pages are cross-compatible with different browsers.
+      Made sure that smartphone site is compatible with different devices.
+      Documented coding standards and best practices in converting designs to pages without ruining the back-end functions.",
+      "highlights": [
+
+      ]
+    }
+  ],
+  "certification": [
+
+  ]
+}
