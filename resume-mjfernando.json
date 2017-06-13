@@ -138,8 +138,8 @@
       "projects": [
         {
           "name": "Happyshopmate RESTAPI and Portal",
-          "description": "A backend API that supports the android and ios application reward system app. This application has bunch of features which includes Coupons, NFC, Qrcode and Beacon detection which allow users to redeem and win instant prizes. ",
-          "role": "Lead Developer",
+          "description": "A backend API that supports the android and iOS application reward system app. This application has bunch of features which includes Coupons, NFC, Qrcode and Beacon detection which allow users to redeem and win instant prizes. ",
+          "role": "Developer",
           "startDate": "2017",
           "endDate": "Present",
           "technologies": "PHP, MySql, Silex, AngularJs"
