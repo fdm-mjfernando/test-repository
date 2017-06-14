@@ -17,29 +17,33 @@
   ],
   "skills": [
     {
-      "category": "Programming Languages",
+      "category": "PROGRAMMING LANGUAGES",
       "technologies": [
         {
           "name": "PHP",
           "number_of_years": 2
         },
         {
-          "name": "Javascript",
+          "name": "JAVASCRIPT",
           "number_of_years": 3
         }
       ]
     },
     {
-      "category": "Web Technologies",
+      "category": "FRONT-END FRAMEWORKS",
       "technologies": [
         {
-          "name": "HTML5",
-          "number_of_years": 3
+          "name": "ANGULARJS V1",
+          "number_of_years": 0.2
+        },
+        {
+          "name": "REACTJS",
+          "number_of_years": 0.2
         }
       ]
     },
     {
-      "category": "Development Frameworks",
+      "category": "BACK-END FRAMEWORKS",
       "technologies": [
         {
           "name": "Codeigniter",
@@ -56,54 +60,6 @@
         },
         {
           "name": "Postgresql",
-          "number_of_years": 1
-        }
-      ]
-    },
-    {
-      "category": "Content Management System",
-      "technologies": [
-        {
-          "name": "Drupal",
-          "number_of_years": 1
-        },
-        {
-          "name": "Magento",
-          "number_of_years": 1
-        }
-      ]
-    },
-    {
-      "category": "Version Control",
-      "technologies": [
-        {
-          "name": "Git",
-          "number_of_years": 2
-        },
-        {
-          "name": "SVN Tortoise",
-          "number_of_years": 3
-        }
-      ]
-    },
-    {
-      "category": "Operating System",
-      "technologies": [
-        {
-          "name": "Windows",
-          "number_of_years": 3
-        },
-        {
-          "name": "Linux",
-          "number_of_years": 1
-        }
-      ]
-    },
-    {
-      "category": "Integrated Development Environment",
-      "technologies": [
-        {
-          "name": "PHPStorm",
           "number_of_years": 1
         }
       ]
@@ -126,7 +82,7 @@
           "role": "Developer",
           "startDate": "2017",
           "endDate": "Present",
-          "months": "3 months",
+          "months": "(3 months)",
           "technologies": "PHP, MySql, Silex, AngularJs"
         },
         {
@@ -135,7 +91,7 @@
           "role": "Developer",
           "startDate": "2017",
           "endDate": "Present",
-          "months": "1 month",
+          "months": "(1 month)",
           "technologies": "PHP, MySql, Prestashop"
         },
         {
@@ -144,7 +100,7 @@
           "role": "Developer",
           "startDate": "2017",
           "endDate": "Present",
-          "months": "1 month",
+          "months": "(1 month)",
           "technologies": "MongoDB, ReactJS, Parse"
         }
       ]
@@ -165,7 +121,7 @@
           "role": "Associate Developer",
           "startDate": "2014",
           "endDate": "2015",
-          "months": "12 months",
+          "months": "(12 months)",
           "technologies": "PHP, XML Database, CSS, Javascript"
         },
         {
@@ -174,7 +130,7 @@
           "role": "Associate Developer",
           "startDate": "2014",
           "endDate": "2015",
-          "months": "6 months",
+          "months": "(6 months)",
           "technologies": "PHP, XML Database, CSS, Javascript"
         },
         {
@@ -183,7 +139,7 @@
           "role": "Lead Front-end Developer",
           "startDate": "2015",
           "endDate": "2017",
-          "months": "14 months",
+          "months": "(14 months)",
           "technologies": "PHP, XML Database, CSS, Javascript"
         }
       ]
