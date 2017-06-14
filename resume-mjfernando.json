@@ -46,8 +46,12 @@
       "category": "BACK-END FRAMEWORKS",
       "technologies": [
         {
-          "name": "Codeigniter",
+          "name": "CODEIGNITER",
           "number_of_years": 1
+        },
+        {
+          "name": "LARAVEL",
+          "number_of_years": 0.3
         }
       ]
     },
