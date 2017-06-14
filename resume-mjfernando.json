@@ -37,20 +37,8 @@
           "number_of_years": 3
         },
         {
-          "name": "Jquery",
+          "name": "jQuery",
           "number_of_years": 3
-        },
-        {
-          "name": "CSS",
-          "number_of_years": 3
-        },
-        {
-          "name": "SASS/SCSS",
-          "number_of_years": 1
-        },
-        {
-          "name": "Bootstrap",
-          "number_of_years": 1
         }
       ]
     },
@@ -119,7 +107,7 @@
       "category": "Integrated Development Environment",
       "technologies": [
         {
-          "name": "PHPstorm",
+          "name": "PHPStorm",
           "number_of_years": 1
         }
       ]
@@ -142,7 +130,26 @@
           "role": "Developer",
           "startDate": "2017",
           "endDate": "Present",
+          "months": "3 months",
           "technologies": "PHP, MySql, Silex, AngularJs"
+        },
+        {
+          "name": "D2C Prestashop",
+          "description": "An e-commerce website made from Prestashop with some customization",
+          "role": "Developer",
+          "startDate": "2017",
+          "endDate": "Present",
+          "months": "1 month",
+          "technologies": "PHP, MySql, Prestashop"
+        },
+        {
+          "name": "PowerTeam",
+          "description": "A website for directors of different games to manage their coaches, players, events and venues.",
+          "role": "Developer",
+          "startDate": "2017",
+          "endDate": "Present",
+          "months": "1 month",
+          "technologies": "MongoDB, ReactJS, Parse"
         }
       ]
     },
@@ -162,6 +169,7 @@
           "role": "Associate Developer",
           "startDate": "2014",
           "endDate": "2015",
+          "months": "12 months",
           "technologies": "PHP, XML Database, CSS, Javascript"
         },
         {
@@ -170,14 +178,16 @@
           "role": "Associate Developer",
           "startDate": "2014",
           "endDate": "2015",
+          "months": "6 months",
           "technologies": "PHP, XML Database, CSS, Javascript"
         },
         {
           "name": "Iiyado (Hotel Reservation Site) and other Projects",
-          "description": "For front-end, it is reactive (different view files used for PC and for smartphone). As for the backend, it is developed using C# customized framework.",
+          "description": "For front-end, it is reactive (different view files used for PC and for smartphone). As for the backend, it is developed using C# customized framework. This project has different phases.",
           "role": "Lead Front-end Developer",
           "startDate": "2015",
           "endDate": "2017",
+          "months": "14 months",
           "technologies": "PHP, XML Database, CSS, Javascript"
         }
       ]
