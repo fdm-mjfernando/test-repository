@@ -120,12 +120,12 @@
       ],
       "projects": [
         {
-          "name": "Gurucon: A Japanese Dating Site",
-          "description": "It is developed by using a PHP Customized Framework and XML Database",
-          "role": "Associate Developer",
-          "startDate": "2014",
-          "endDate": "2015",
-          "months": "(12 months)",
+          "name": "Iiyado (Hotel Reservation Site) and other Projects",
+          "description": "For front-end, it is reactive (different view files used for PC and for smartphone). As for the backend, it is developed using C# customized framework. This project has different phases.",
+          "role": "Lead Front-end Developer",
+          "startDate": "2015",
+          "endDate": "2017",
+          "months": "(14 months)",
           "technologies": "PHP, XML Database, CSS, Javascript"
         },
         {
@@ -138,12 +138,12 @@
           "technologies": "PHP, XML Database, CSS, Javascript"
         },
         {
-          "name": "Iiyado (Hotel Reservation Site) and other Projects",
-          "description": "For front-end, it is reactive (different view files used for PC and for smartphone). As for the backend, it is developed using C# customized framework. This project has different phases.",
-          "role": "Lead Front-end Developer",
-          "startDate": "2015",
-          "endDate": "2017",
-          "months": "(14 months)",
+          "name": "Gurucon: A Japanese Dating Site",
+          "description": "It is developed by using a PHP Customized Framework and XML Database",
+          "role": "Associate Developer",
+          "startDate": "2014",
+          "endDate": "2015",
+          "months": "(12 months)",
           "technologies": "PHP, XML Database, CSS, Javascript"
         }
       ]
