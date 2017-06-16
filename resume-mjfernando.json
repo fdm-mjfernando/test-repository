@@ -24,7 +24,7 @@
           "number_of_years": 2
         },
         {
-          "name": "JAVASCRIPT",
+          "name": "Javascript",
           "number_of_years": 3
         }
       ]
@@ -33,11 +33,11 @@
       "category": "FRONT-END FRAMEWORKS",
       "technologies": [
         {
-          "name": "ANGULARJS V1",
+          "name": "AngularJS V1",
           "number_of_years": 0.2
         },
         {
-          "name": "REACTJS",
+          "name": "ReactJS",
           "number_of_years": 0.2
         }
       ]
@@ -46,17 +46,17 @@
       "category": "BACK-END FRAMEWORKS",
       "technologies": [
         {
-          "name": "CODEIGNITER",
+          "name": "Codeigniter",
           "number_of_years": 1
         },
         {
-          "name": "LARAVEL",
+          "name": "Laravel",
           "number_of_years": 0.3
         }
       ]
     },
     {
-      "category": "Databases",
+      "category": "DATABASES",
       "technologies": [
         {
           "name": "MySql",
@@ -81,24 +81,6 @@
       ],
       "projects": [
         {
-          "name": "Happyshopmate RESTAPI and Portal",
-          "description": "A backend API that supports the android and iOS application reward system app. This application has bunch of features which includes Coupons, NFC, Qrcode and Beacon detection which allow users to redeem and win instant prizes. ",
-          "role": "Developer",
-          "startDate": "2017",
-          "endDate": "Present",
-          "months": "(3 months)",
-          "technologies": "PHP, MySql, Silex, AngularJs"
-        },
-        {
-          "name": "D2C Prestashop",
-          "description": "An e-commerce website made from Prestashop with some customization",
-          "role": "Developer",
-          "startDate": "2017",
-          "endDate": "Present",
-          "months": "(1 month)",
-          "technologies": "PHP, MySql, Prestashop"
-        },
-        {
           "name": "PowerTeam",
           "description": "A website for directors of different games to manage their coaches, players, events and venues.",
           "role": "Developer",
@@ -106,6 +88,24 @@
           "endDate": "Present",
           "months": "(1 month)",
           "technologies": "MongoDB, ReactJS, Parse"
+        },
+        {
+          "name": "Chatbot API",
+          "description": "An API which serves as a bridge between an e-commerce website and a chatbot.",
+          "role": "Developer",
+          "startDate": "2017",
+          "endDate": "Present",
+          "months": "(1 month)",
+          "technologies": "PHP, MySql, Lumen Framework"
+        },
+        {
+          "name": "Happyshopmate RESTAPI and Portal",
+          "description": "A backend API that supports the android and iOS application reward system app. This application has bunch of features which includes Coupons, NFC, Qrcode and Beacon detection which allow users to redeem and win instant prizes. ",
+          "role": "Developer",
+          "startDate": "2017",
+          "endDate": "Present",
+          "months": "(3 months)",
+          "technologies": "PHP, MySql, Silex, AngularJs"
         }
       ]
     },
